@@ -30,5 +30,5 @@ I'm currently working and studying DevSecOps.
   <a href="https://www.linkedin.com/in/diego-santiago-pereira-b62420233" target="_blank"><img align="center" height="80" width"90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 </div>
 
-![Snake animation](https:github.com/diego-lota/diego-lota/blob/output/github-contribution-grid-snake.svg)
+#![Snake animation](https:github.com/diego-lota/diego-lota/blob/output/github-contribution-grid-snake.svg)
  
