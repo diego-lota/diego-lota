@@ -1,4 +1,4 @@
-# Hi everyone, Im Diego Santiago Pereira, also know as Lota.
+# Hi everyone, I'm Diego Santiago Pereira, also know as Lota.
 
 
 I'm currently working and studying DevSecOps.
