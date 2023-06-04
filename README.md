@@ -24,3 +24,8 @@ I'm currently working and studying DevSecOps.
   <img align="center" alt="Diego-Linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Diego-Linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
  
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/diego-santiago-pereira-b62420233" target="_blank"><img align="center" height="80" width"90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+</div>
