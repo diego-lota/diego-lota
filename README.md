@@ -31,4 +31,4 @@ I'm currently working and studying DevSecOps.
 </div>
 
 
- 
+ ![Snake animation](https://github.com/diego-lota/diego-lota/blob/output/github-contribution-grid-snake.svg)
